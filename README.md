@@ -4,7 +4,7 @@
 
   <img src="https://img.shields.io/badge/Đại_học-Cần_Thơ-0056A3?style=for-the-badge&logo=appveyor" alt="CTU" />
   <img src="https://img.shields.io/badge/Chuyên_ngành-Hệ_thống_thông_tin-FF8C00?style=for-the-badge" alt="IS" />
-  <img src="https://img.shields.io/badge/Trạng_thái-Hoàn_thành-4CAF50?style=for-the-badge" alt="Status" />
+  
 </div>
 
 ---
@@ -16,7 +16,6 @@ Dự án này là kho lưu trữ (Repository) chính thức dành cho các bài 
 Dưới đây là thông tin chi tiết của các thành viên trong nhóm tham gia phát triển dự án này:
 
 | STT | Hình đại diện | Họ và Tên | MSSV | Chuyên ngành |
-|:---:|:---:|---|:---:|---|---|
 | 1 | 👩‍💻 | **Đặng Ngọc Mỹ** | `B2303766` | Hệ thống thông tin |
 | 2 | 🧑‍💻 | **Trần Huỳnh Mỹ Hạnh** | `B2303743` | Hệ thống thông tin |
 | 3 | 👨‍💻 | **Nguyễn Thị Bích Chăm** | `B230733` | Hệ thống thông tin |

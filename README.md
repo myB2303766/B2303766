@@ -12,13 +12,13 @@
 ## 📖 Mô tả dự án (Description)
 Dự án này là kho lưu trữ (Repository) chính thức dành cho các bài tập thực hành và bài tập nhóm. Mục tiêu của repo này là áp dụng các kiến thức đã học vào việc quản lý phiên bản mã nguồn với Git/GitHub, đồng thời xây dựng kỹ năng làm việc nhóm hiệu quả qua nền tảng này.
 
-## 👥 Thông tin thành viên (Authors & Acknowledgment)
-Dưới đây là thông tin chi tiết của các thành viên trong nhóm tham gia phát triển dự án này:
+## 👥 Thông tin (Author)
+
+Dưới đây là thông tin chi tiết của sinh viên thực hiện dự án này:
 
 | STT | Hình đại diện | Họ và Tên | MSSV | Chuyên ngành |
+|:---:|:---:|---|:---:|---|
 | 1 | 👩‍💻 | **Đặng Ngọc Mỹ** | `B2303766` | Hệ thống thông tin |
-| 2 | 🧑‍💻 | **Trần Huỳnh Mỹ Hạnh** | `B2303743` | Hệ thống thông tin |
-| 3 | 👨‍💻 | **Nguyễn Thị Bích Chăm** | `B230733` | Hệ thống thông tin |
 
 
 ## ⚙️ Hướng dẫn cài đặt (Installation)

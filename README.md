@@ -6,9 +6,7 @@
   <img src="https://img.shields.io/badge/Chuyên_ngành-Hệ_thống_thông_tin-FF8C00?style=for-the-badge" alt="IS" />
   
 </div>
-
 ---
-
 ## 📖 Mô tả dự án (Description)
 Dự án này là kho lưu trữ (Repository) chính thức dành cho các bài tập thực hành và bài tập nhóm. Mục tiêu của repo này là áp dụng các kiến thức đã học vào việc quản lý phiên bản mã nguồn với Git/GitHub, đồng thời xây dựng kỹ năng làm việc nhóm hiệu quả qua nền tảng này.
 

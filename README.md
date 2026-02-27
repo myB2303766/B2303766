@@ -27,4 +27,4 @@ Dưới đây là thông tin chi tiết của sinh viên thực hiện dự án 
 git clone [https://github.com/myB2303766/B2303766.git](https://github.com/myB2303766/B2303766.git)
 
 # Di chuyển vào thư mục dự án
-cd B2303766
+cd B2303766  
